@@ -75,11 +75,11 @@ h3 {
 }
 
 .menu a:hover {
-    border-bottom-color: var(--tinta);
+    border-bottom-color: var(--fita);
 }
 
 .menu a.atual {
-    border-bottom-color: var(--fita);
+    border-bottom-color: var(--tinta);
 }
 
 .rodape {
